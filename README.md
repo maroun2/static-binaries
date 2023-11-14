@@ -20,6 +20,11 @@ Here is my personal collection of static binaries, copy or download the followin
 - [tftp](https://raw.githubusercontent.com/maroun2/static-binaries/master/x86-64/tftp) (tftp-hpa Version 5.2)
 - [wget](https://raw.githubusercontent.com/maroun2/static-binaries/master/x86-64/wget) (Version 1.20.1, **with SSL**)
 
+
+## Binaries for aarch64 platform
+
+- [tcpdump](https://raw.githubusercontent.com/maroun2/static-binaries/master/aarch64/tcpdump) (Version https://github.com/S-trace/tcpdump_static_aarch64)
+
 ## Example usage
 
 ```bash
