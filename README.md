@@ -19,11 +19,20 @@ Here is my personal collection of static binaries, copy or download the followin
 - [tcpdump](https://raw.githubusercontent.com/maroun2/static-binaries/master/x86-64/tcpdump) (Version 4.9.0)
 - [tftp](https://raw.githubusercontent.com/maroun2/static-binaries/master/x86-64/tftp) (tftp-hpa Version 5.2)
 - [wget](https://raw.githubusercontent.com/maroun2/static-binaries/master/x86-64/wget) (Version 1.20.1, **with SSL**)
+- [nmap](https://raw.githubusercontent.com/maroun2/static-binaries/master/x86-64/nmap) (Version v7.94 https://github.com/ernw/static-toolbox/releases/tag/nmap-v7.94SVN)
+- [ncat](https://raw.githubusercontent.com/maroun2/static-binaries/master/x86-64/ncat) (Version v7.94 https://github.com/ernw/static-toolbox/releases/tag/nmap-v7.94SVN)
 
 
 ## Binaries for aarch64 platform
 
 - [tcpdump](https://raw.githubusercontent.com/maroun2/static-binaries/master/aarch64/tcpdump) (Version https://github.com/S-trace/tcpdump_static_aarch64)
+- [nmap](https://raw.githubusercontent.com/maroun2/static-binaries/master/aarch64/nmap) (Version v7.94 https://github.com/ernw/static-toolbox/releases/tag/nmap-v7.94SVN)
+- [ncat](https://raw.githubusercontent.com/maroun2/static-binaries/master/aarch64/ncat) (Version v7.94 https://github.com/ernw/static-toolbox/releases/tag/nmap-v7.94SVN)
+
+## Binaries for armhf platform
+
+- [nmap](https://raw.githubusercontent.com/maroun2/static-binaries/master/armhf/nmap) (Version v7.94 https://github.com/ernw/static-toolbox/releases/tag/nmap-v7.94SVN)
+- [ncat](https://raw.githubusercontent.com/maroun2/static-binaries/master/armhf/ncat) (Version v7.94 https://github.com/ernw/static-toolbox/releases/tag/nmap-v7.94SVN)
 
 ## Example usage
 
