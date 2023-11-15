@@ -41,3 +41,14 @@ Here is my personal collection of static binaries, copy or download the followin
 ```bash
 wget https://raw.githubusercontent.com/maroun2/static-binaries/master/x86-64/strace -O /tmp/strace && chmod +x /tmp/strace
 ```
+
+---
+- #### Similar Repos
+> - [Azathothas/Static-Binaries](https://github.com/Azathothas/Static-Binaries) **`aarch64 (ARM)` `armhf` `i686` `riscv64` `Static-Compiled`**
+> - [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) **`x86_64` `Static-Compiled`**
+> - [borestad/static-binaries](https://github.com/borestad/static-binaries) **`x86_64` `upx`**
+> - [mosajjal/binary-tools](https://github.com/mosajjal/binary-tools) **`aarch64 (ARM)` `x64`**
+> - [ryanwoodsmall/static-binaries](https://github.com/ryanwoodsmall/static-binaries) **`aarch64 (ARM)` `armhf` `i686` `or1k` `riscv64` `x86_64`**
+> - [bol-van/bins](https://github.com/bol-van/bins) **`Android` `aarch64 (ARM)` `armhf` `mips` `mipsel` `x86` `x86_64`**
+> - [Zackptg5/Cross-Compiled-Binaries-Android](https://github.com/Zackptg5/Cross-Compiled-Binaries-Android) **`aarch64 (ARM)` `arm64` `x86` `x86_64`** 
+---
