@@ -28,11 +28,13 @@ Here is my personal collection of static binaries, copy or download the followin
 - [tcpdump](https://raw.githubusercontent.com/maroun2/static-binaries/master/aarch64/tcpdump) (Version https://github.com/S-trace/tcpdump_static_aarch64)
 - [nmap](https://raw.githubusercontent.com/maroun2/static-binaries/master/aarch64/nmap) (Version v7.94 https://github.com/ernw/static-toolbox/releases/tag/nmap-v7.94SVN)
 - [ncat](https://raw.githubusercontent.com/maroun2/static-binaries/master/aarch64/ncat) (Version v7.94 https://github.com/ernw/static-toolbox/releases/tag/nmap-v7.94SVN)
+- [wget](https://raw.githubusercontent.com/maroun2/static-binaries/master/aarch64/wget) (Version 1_36_1 https://github.com/Azathothas/Static-Binaries/tree/main/wget)
 
 ## Binaries for armhf platform
 
 - [nmap](https://raw.githubusercontent.com/maroun2/static-binaries/master/armhf/nmap) (Version v7.94 https://github.com/ernw/static-toolbox/releases/tag/nmap-v7.94SVN)
 - [ncat](https://raw.githubusercontent.com/maroun2/static-binaries/master/armhf/ncat) (Version v7.94 https://github.com/ernw/static-toolbox/releases/tag/nmap-v7.94SVN)
+- [wget](https://raw.githubusercontent.com/maroun2/static-binaries/master/armhf/wget) (Version 1_36_1 https://github.com/Azathothas/Static-Binaries/tree/main/wget)
 
 ## Example usage
 
